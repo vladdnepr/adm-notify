@@ -1,0 +1,29 @@
+{
+    "name": "vladdnepr/adm-notify",
+    "description": "ADM Notify - Amazon Device Messaging for amazon devices",
+    "keywords": ["yii2", "adm", "android", "kindle", "amazon", "push"],
+    "homepage": "https://github.com/vladdnepr/adm-notify",
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    },
+    "support": {
+      "issues": "https://github.com/vladdnepr/adm-notify/issues?state=open",
+      "source": "https://github.com/vladdnepr/adm-notify"
+    },
+    "license": "public domain",
+    "authors": [
+        {
+            "name": "Vladislav Lyshenko",
+            "email": "vladdnepr1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vladdnepr\\adm\\notify\\": "src"
+        }
+    }
+}
