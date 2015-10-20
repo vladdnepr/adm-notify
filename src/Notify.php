@@ -1,6 +1,6 @@
 <?php
 
-namespace vladdnepr\adm\notify;
+namespace vladdnepr\amazon\adm;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
