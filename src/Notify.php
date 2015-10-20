@@ -1,6 +1,6 @@
 <?php
 
-namespace vladdnepr\adm;
+namespace vladdnepr\adm\notify;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
