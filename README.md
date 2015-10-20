@@ -10,7 +10,7 @@ Anything may change at any time.
 
 ## Using
 
-    $notify = \vladdnepr\adm\Notify;
+    $notify = \vladdnepr\amazon\adm\Notify;
     $notify->clientId = 'CLIENT_ID';
     $notify->clientSecret = 'CLIENT_SECRET';
     $notify->sendData('DEVICE_ID', ['key1' => 'value1', 'key2' => 'value2']);
